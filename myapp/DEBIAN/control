@@ -1,0 +1,9 @@
+Package: myapp
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: libc6 (>= 2.7)
+Maintainer: msbCyricTohoku <ben.sh@tohoku.ac.jp>
+Description: A minimal cmatrix style program named flashmatrix
+
